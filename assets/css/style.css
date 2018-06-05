@@ -115,3 +115,28 @@ article {
     min-height: calc(100vh - 60px);
 }
 
+a:link, a:visited {
+    
+    background: #ffffff;
+    color: #cccccc;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #ffffff;
+}
+
+
+.centerLink{
+
+    border-right: solid 2px #cccccc;
+    border-left: solid 2px #cccccc;
+
+}
+
+
+
+
