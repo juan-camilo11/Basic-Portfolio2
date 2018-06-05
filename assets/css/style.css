@@ -1,0 +1,117 @@
+body {
+    background-image: url("../images/light-grey-terrazzo.png")
+}
+
+
+header {
+
+    background: #ffffff;
+    border-color: #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px solid #cccccc;
+    min-width: 960px;
+
+
+}
+
+h1 {
+
+    background: #4aaaa5; 
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+    width: 15em;
+    text-align: center;
+    position: relative;
+    padding-top: .75em;
+    padding-bottom: .75em;
+    left: calc((100vw / 2) - 500px );
+    min-width: 480px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    
+}
+
+nav {
+    color: #cccccc;
+    font-size: 18px;
+    position: absolute;
+    left: calc((100vw / 2) + 250px );
+    top: 25px;
+    
+
+    
+}
+
+footer {
+    background: #666666;
+    text-align: center;
+    font-size: 8px;
+    padding: 1.5em 0px 0px 0px;
+    height: 40px;
+    border-top: .5em solid #4aaaa5;
+    min-width: 960px;
+
+}
+
+.Wrapper {
+
+    margin: 2.2em auto 2.2em auto; 
+    width: 960px;
+    background: #ffffff;
+    border: 1px solid #cccccc;
+
+
+
+}
+
+h2 { 
+    color: #4aaaa5;
+    font-size: 32px;
+    font-weight: bold;
+    border-bottom: 2px solid #cccccc;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+
+}
+
+.other-Text {
+
+    font-family: 'arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+
+article {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#bio {
+
+    font-size: 16px;
+    padding: 0em 1em 1em 1em;
+    margin: .5em .5em .5em .5em;
+    line-height: 1.5;
+
+}
+
+#profile {
+    float: left;
+    max-width: 20%;
+    max-height: 30%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 8px;
+
+
+}
+
+.content {
+
+    min-height: calc(100vh - 60px);
+}
+
