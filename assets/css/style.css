@@ -18,13 +18,13 @@ h1 {
 
     background: #4aaaa5; 
     color: #ffffff;
-    font-size: 32px;
+    font-size: 24px;
     font-weight: bold;
     width: 15em;
     text-align: center;
     position: relative;
-    padding-top: .75em;
-    padding-bottom: .75em;
+    padding-top: 1em;
+    padding-bottom: 1em;
     left: calc((100vw / 2) - 500px );
     min-width: 480px;
     margin-left: 20px;
@@ -70,7 +70,7 @@ h2 {
 
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
-    font-size: 32px;
+    font-size: 24px;
     font-weight: bold;
     border-bottom: 2px solid #cccccc;
     margin-left: 20px;
@@ -194,14 +194,7 @@ a:hover, a:active {
 
 
 
-.rightPicture {
 
-    
-    margin: 15px 40% 15px 20px;
-
-
-
-}
 .picture1 {
 
     
