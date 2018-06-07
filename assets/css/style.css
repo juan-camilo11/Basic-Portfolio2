@@ -35,10 +35,10 @@ h1 {
 
 nav {
     color: #cccccc;
-    font-size: 18px;
+    font-size: 14px;
     position: absolute;
     left: calc((100vw / 2) + 250px );
-    top: 25px;
+    top: 30px;
     
 
     
@@ -93,6 +93,7 @@ article {
     color: #636363;
     margin-top: 20px;
     margin-bottom: 20px;
+    overflow: auto;
 }
 
 form {
@@ -132,14 +133,14 @@ a:link, a:visited {
     
     background: #ffffff;
     color: #cccccc;
-    padding: 14px 25px;
+    padding: 4px 25px;
     text-align: center; 
     text-decoration: none;
     display: inline-block;
 }
 
 a:hover, a:active {
-    background-color: #ffffff;
+    background-color: #463d3d;
 }
 
 
@@ -193,3 +194,54 @@ a:hover, a:active {
 
 
 
+.rightPicture {
+
+    
+    margin: 15px 40% 15px 20px;
+
+
+
+}
+.picture1 {
+
+    
+    width: 200px;
+    margin: 15px 20px;
+    display: block;
+    float:left;
+    clear: both;
+   
+    
+
+   
+    
+
+}
+
+.picture2 {
+
+    
+    width: 200px;
+    margin: 15px 20px;
+    display: block;
+    float: left;
+
+}
+
+.tabTitle {
+
+    background: #4aaaa5; 
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: .75em;
+    padding-bottom: .75em;
+    width:100%;
+    top: -55px;
+    position: relative;
+    
+    
+
+    
+}
